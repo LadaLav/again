@@ -1,4 +1,4 @@
-Some text (from master)
-Changes from master
-
-Changes new
+Some text
+Changes from <master>
+Changes from <first>
+new changes
