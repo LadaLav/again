@@ -1,4 +1,5 @@
 Some text
 Changes from <master>
 Changes from <first>
+Changes from <first> and <first>
 new changes
