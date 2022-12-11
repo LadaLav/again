@@ -1,3 +1,4 @@
 Some text (from master)
 Changes from master
 
+Changes new
